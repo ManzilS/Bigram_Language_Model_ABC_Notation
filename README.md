@@ -1,6 +1,6 @@
 **Bigram Language Model for ABC Music Notation (PyTorch)**
 
-This repository contains an implementation of a bigram language model with a fun twist - it's trained on music in ABC notation! The model is built using PyTorch, one of the leading libraries for deep learning.
+This repository contains an implementation of a bigram language model - it is trained on music in ABC notation! The model is built using PyTorch, one of the leading libraries for deep learning.
 
 **Introduction**
 
